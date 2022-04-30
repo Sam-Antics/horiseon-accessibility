@@ -23,6 +23,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - review the "float" classes. See if there's a more efficient way to do this in the CSS file.
 
 
+
+
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
