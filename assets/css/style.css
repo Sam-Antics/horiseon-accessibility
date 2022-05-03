@@ -17,7 +17,7 @@ a {
 p {
     font-size: 16px;
 }
-/* header/footer sections */
+/* Header Section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,17 +49,6 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h4 {
-    font-size: 20px;
 }
 /* jumbotron */
 .hero img {
@@ -129,4 +118,15 @@ main {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+/* Footer section */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h4 {
+    font-size: 20px;
 }
